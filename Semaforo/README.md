@@ -29,7 +29,7 @@ O sistema acende cada LED por um tempo específico, imitando o funcionamento rea
 
 Abaixo está o diagrama de montagem do circuito no Arduino Uno utilizando a protoboard:
 
-![Diagrama de montagem do semáforo](./Image/Circuito%20do%20Semáforo.png)
+![Diagrama de montagem do semáforo](./Image/Circuito do Semaforo.png)
 
 💡 **Dica:**  
 - Os fios coloridos indicam as ligações dos pinos digitais aos LEDs.  
