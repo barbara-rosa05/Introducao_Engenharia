@@ -26,7 +26,7 @@ O objetivo é fornecer aos alunos um espaço organizado para acessar as simulaç
 **Bárbara Cássia Florentino Rosa**  
 Engenheira de Telecomunicações | Instituto Nacional de Telecomunicações – Inatel
 
-[LinkedIn](https://www.linkedin.com/in/barbara-cassia-florentino-rosa) | [GitHub](https://github.com/barbara-rosa05)
+[LinkedIn](https://www.linkedin.com/in/bárbara-cássia-florentino-rosa) | [GitHub](https://github.com/barbara-rosa05)
 
 ---
 
